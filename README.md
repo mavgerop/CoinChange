@@ -11,4 +11,4 @@ This is Coin Change in Greek language in euros.
 
 This code is to give us a handle on any of our transactions.
 
-Run: python CoinChange.py
+Run: python resta.py
